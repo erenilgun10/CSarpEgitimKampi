@@ -151,11 +151,11 @@ namespace _02_Variables
 
             #region
 
-            char gender;
-            Console.WriteLine("Lütfen Cinsiyet seçiniz");
-            gender = char.Parse(Console.ReadLine());
-            #endregion
-            Console.Read();
+            //char gender;
+            //Console.WriteLine("Lütfen Cinsiyet seçiniz");
+            //gender = char.Parse(Console.ReadLine());
+            //#endregion
+            //Console.Read();
 
         }
     }
