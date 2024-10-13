@@ -154,7 +154,7 @@ namespace _06_Arrays
 
             #endregion  
 
-
+              
 
             Console.Read();
 
