@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("5.LoopsWithStars")]
+[assembly: AssemblyTitle("07_ForeachLoop")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("5.LoopsWithStars")]
+[assembly: AssemblyProduct("07_ForeachLoop")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dde12ad3-e851-4f6c-9ad8-a9250733c288")]
+[assembly: Guid("5e684684-3051-49f5-b928-42dc325861d2")]
 
 // Version information for an assembly consists of the following four values:
 //
