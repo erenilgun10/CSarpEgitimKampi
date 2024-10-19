@@ -132,25 +132,25 @@ namespace _06_Arrays
             //}
             //Console.WriteLine(sum);
 
-            int[] numbers = { 21, 12, 33, 45, 52, 65, 77, 81, 49, 42, 21,51,412,6123,7234,723 };
-            Console.WriteLine("Çift SAYILAR");
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 0)
-                { 
-                Console.WriteLine(numbers[i]); 
-                }
-            }
-            Console.WriteLine("------------------------------------------");
-            Console.WriteLine("TEK SAYILAR");
-            Console.WriteLine();
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //int[] numbers = { 21, 12, 33, 45, 52, 65, 77, 81, 49, 42, 21,51,412,6123,7234,723 };
+            //Console.WriteLine("Çift SAYILAR");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 0)
+            //    { 
+            //    Console.WriteLine(numbers[i]); 
+            //    }
+            //}
+            //Console.WriteLine("------------------------------------------");
+            //Console.WriteLine("TEK SAYILAR");
+            //Console.WriteLine();
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
 
             #endregion  
 
